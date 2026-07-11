@@ -1,0 +1,6 @@
+{
+  "name": "SSE Electrical",
+  "description": "Comprehensive rates directory and estimate builder for electrical, plumbing, sanitary wares, solar panels, tools, RO systems, security devices, home appliances, and accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
